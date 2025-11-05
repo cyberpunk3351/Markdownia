@@ -1,0 +1,1 @@
+https://www.reddit.com/r/learnAIAgents/comments/1ntqfzv/openai_just_dropped_prompt_packs_and_theyre/

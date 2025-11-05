@@ -1,0 +1,1 @@
+https://www.reddit.com/r/PromptEngineering/comments/1nv87bt/10_prompts_here_hope_this_might_help_someone/

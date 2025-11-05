@@ -1,0 +1,16 @@
+{
+  "name": "p42_dmd",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently -k \"npm run dev --workspace backend\" \"npm run dev --workspace frontend\"",
+    "build": "npm run build --workspace frontend",
+    "lint": "npm run lint --workspace frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
