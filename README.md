@@ -2,6 +2,8 @@
 
 Markdown Explorer is a full-stack reference application for browsing a secure Markdown knowledge base.
 
+![markdownia.png](markdownia.png)
+
 The **Express** backend authenticates users, indexes `.md` files inside the `/content` directory, and exposes JWT-protected endpoints for tree browsing, file previews, search, and health checks. The **Vue 3 + Vite** frontend delivers a dark-themed dashboard with real-time search, an expandable file tree, and Markdown rendering powered by `marked`, `DOMPurify`, and Tailwind Typography.
 
 ---
