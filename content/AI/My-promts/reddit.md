@@ -1,1 +1,0 @@
-Here is a link to reddit (). Translate it and translate the first 10 popular comments into Russian. Create a markdown document with the translation and formatting.
